@@ -1,0 +1,7 @@
+{
+  "name": "Asistente Virtual RoosPOS",
+  "description": "Un asistente virtual impulsado por IA para ayudar a los usuarios a navegar y solucionar problemas del software RoosPOS, brindando soporte experto y guía paso a paso.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
